@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     
-
     // Variables
     let baseDeDatos = [];
 
